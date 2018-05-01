@@ -1,6 +1,6 @@
 # Machine Learning/ Deep Learning
 
-In this repository, I mainly put reports for data analysis I have done by using different statistical models in machine learning or deep learning. I wrote my own codes in MATLAB/Octave and Python to finish these jobs.
+In this repository, I mainly put reports for data analysis I have done by using different statistical models and algorithms in machine learning or deep learning. I wrote my own codes in MATLAB/Octave and Python to finish these jobs.
 
 ## Contents
 
