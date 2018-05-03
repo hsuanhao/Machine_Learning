@@ -7,7 +7,8 @@ In this repository, I mainly put reports for data analysis I have done by using 
 2. [Prediction of housing price](https://github.com/hsuanhao/Machine_Learning/blob/master/prediction_housing_price.ipynb) (linear regresion)
 3. [Recognize hand-written digits (from 0 to 9)](https://github.com/hsuanhao/Machine_Learning/blob/master/Hand-Written_Digits_Recognition.ipynb) (logistic regression -- multiclassification)
 4. Image Recogonition (under construction) (logistic regression -- binary classification)
-5. Spam Classification (under construction)
+5. Prediction of Trends in Atmospheric Carbon Dioxide (Time Series) (under construction)
+6. Spam Classification (under construction)
 
 ## Unsupervised Learning
 1. Image Compression (under construction)
