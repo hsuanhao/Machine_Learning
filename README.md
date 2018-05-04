@@ -8,7 +8,7 @@ I also use useful libraries in Python, such as NumPy (for vectorization calculat
 1. [Prediction profits for a food truck](https://github.com/hsuanhao/Machine_Learning/blob/master/prediction_profits_food_truck.ipynb) (linear regression)
 2. [Prediction of housing price](https://github.com/hsuanhao/Machine_Learning/blob/master/prediction_housing_price.ipynb) (linear regresion)
 3. [Recognize hand-written digits (from 0 to 9)](https://github.com/hsuanhao/Machine_Learning/blob/master/Hand-Written_Digits_Recognition.ipynb) (logistic regression -- multiclassification)
-4. Image Recogonition (under construction) (logistic regression -- binary classification)
+4. [Image Recogonition] (https://github.com/hsuanhao/Machine_Learning/blob/master/Image_Recognition.ipynb) (logistic regression -- binary classification)
 5. Prediction of Trends in Atmospheric Carbon Dioxide (Time Series) (under construction)
 6. Spam Classification (under construction)
 
