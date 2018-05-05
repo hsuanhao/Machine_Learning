@@ -7,7 +7,7 @@ I also use useful libraries in Python, such as NumPy (for vectorization calculat
 ## Supervised Learning ##
 - [Prediction profits for a food truck](https://github.com/hsuanhao/Machine_Learning/blob/master/prediction_profits_food_truck.ipynb) (linear regression)
 - [Prediction of housing price](https://github.com/hsuanhao/Machine_Learning/blob/master/prediction_housing_price.ipynb) (linear regresion)
-- [Recognize hand-written digits (from 0 to 9)](https://github.com/hsuanhao/Machine_Learning/blob/master/Hand-Written_Digits_Recognition.ipynb) (logistic regression -- multiclassification)
+- [Recognize hand-written digits (from 0 to 9)](https://github.com/hsuanhao/Machine_Learning/blob/master/Hand-Written_Digits_Recognition.ipynb) (multiclassification by Neural Network)
 - [Image Recogonition](https://github.com/hsuanhao/Machine_Learning/blob/master/Image_Recognition.ipynb) (logistic regression -- binary classification)
 - Prediction of Trends in Atmospheric Carbon Dioxide (Time Series) (under construction)
 - Spam Classification (under construction)
