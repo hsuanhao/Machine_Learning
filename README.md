@@ -10,6 +10,7 @@ I also use useful libraries in Python, such as NumPy (for vectorization calculat
 - [Recognize hand-written digits (from 0 to 9)](https://github.com/hsuanhao/Machine_Learning/blob/master/Hand-Written_Digits_Recognition.ipynb) (Multiclassification by **Neural Network**)
 - [Recognize hand-written digits (from 0 to 9)](https://github.com/hsuanhao/Machine_Learning/blob/master/Nearest_neighbor_MNIST.ipynb) (Multiclassification by **Nearest Neighbor**)
 - [Image Recogonition](https://github.com/hsuanhao/Machine_Learning/blob/master/Image_Recognition.ipynb) (**logistic regression** -- binary classification)
+- [Spine Injury Classification](https://github.com/hsuanhao/Machine_Learning/blob/master/Spine_Injury_Classification.ipynb) (Multiclassification by **Nearest Neighbor**)
 - Prediction of Trends in Atmospheric Carbon Dioxide (Time Series) (under construction)
 - Spam Classification (under construction)
 
