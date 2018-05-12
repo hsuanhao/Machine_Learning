@@ -1,6 +1,6 @@
 # Machine Learning/ Deep Learning #
 
-In this repository, I mainly put reports for data analysis I have done by using different statistical models and algorithms in **machine learning** or **deep learning**. I wrote my own codes in MATLAB/Octave and Python to finish these jobs.
+In this repository, I mainly put selected reports for data analysis I have done by using different statistical models and algorithms in **machine learning** or **deep learning**. I wrote my own codes in MATLAB/Octave and Python to finish these jobs.
 
 I also use useful libraries in Python, such as NumPy (for vectorization calculation), Pandas (for data manipulation and analysis), SciPy (for scientific computing), Matplotlib (for plotting), and sckit-learn (for machine learning). Besides, PySpark is for parallel computing in distributed file system for big data, and it has its own machine learning library such as MLLib and ML packages. 
 
