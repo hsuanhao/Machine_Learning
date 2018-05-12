@@ -13,6 +13,6 @@ I also use useful libraries in Python, such as NumPy (for vectorization calculat
 - [Spine Injury Classification](https://github.com/hsuanhao/Machine_Learning/blob/master/Spine_Injury_Classification.ipynb) (Multiclassification by **Nearest Neighbor**)
 
 ## Unsupervised Learning ##
-- Image Compression (under construction)
+- [Image Compression](https://github.com/hsuanhao/Machine_Learning/blob/master/Image_Compression.ipynb) (clustering by **K-means algorithm**)
 - Detect failing servers on a network (under construction)
 - Recommender systems for movies (under construction)
