@@ -16,4 +16,4 @@ I also use useful libraries in Python, such as NumPy (for vectorization calculat
 - [Image Compression](https://github.com/hsuanhao/Machine_Learning/blob/master/Image_Compression.ipynb) (clustering by **K-means algorithm**)
 - Dimension Reduction for MNIST data set of handwritten digits (**Principal Component Analysis**, or **PCA**)
 - Detect failing servers on a network (**Anomaly Detection Algorithm**)
-- Recommender systems for movies (under construction)
+- Recommender systems for movies (**Collaborative Filtering Algorithm**)
