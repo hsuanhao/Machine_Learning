@@ -1,4 +1,4 @@
-# Machine Learning/ Deep Learning #
+# Machine Learning #
 
 In this repository, I mainly put selected reports for data analysis I have done by using different statistical models and algorithms in **machine learning** or **deep learning**. I wrote my own codes in MATLAB/Octave and Python to finish these jobs.
 
