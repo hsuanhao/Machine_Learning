@@ -14,7 +14,7 @@ I also use useful libraries in Python, such as **NumPy** (for vectorization calc
 
 ## Unsupervised Learning ##
 - [Image Compression](https://github.com/hsuanhao/Machine_Learning/blob/master/Image_Compression.ipynb) (clustering by **K-means algorithm**, **MATLAB**)
-- Dimension Reduction for MNIST data set of handwritten digits (**Principal Component Analysis**, or **PCA**, **MATLAB**)
+- Dimension Reduction for MNIST data set of handwritten digits (**Principal Component Analysis**, or **PCA**, **Python**)
 - Detect failing servers on a network (**Anomaly Detection Algorithm**)
 - [Recommender systems for movies](https://github.com/hsuanhao/Machine_Learning/blob/master/Recommender_Systerms_for_Movies.ipynb) (**Collaborative Filtering Algorithm**, **MATLAB**)
 
