@@ -21,7 +21,7 @@ I also use useful libraries in Python, such as **NumPy** (for vectorization calc
 
 # Statistics #
 
-In what follows, they are selected course work in statistics.
+In what follows, I selected some course work in statistics.
 
 - Confidence Intervals
 
