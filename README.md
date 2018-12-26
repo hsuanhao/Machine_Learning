@@ -18,5 +18,14 @@ I also use useful libraries in Python, such as **NumPy** (for vectorization calc
 - Detect failing servers on a network (**Anomaly Detection Algorithm**)
 - [Recommender systems for movies](https://github.com/hsuanhao/Machine_Learning/blob/master/Recommender_Systerms_for_Movies.ipynb) (**Collaborative Filtering Algorithm**, **MATLAB**)
 
+
+# Statistics #
+
+In what follows, they are selected course work in statistics.
+
+- Confidence Intervals
+
+
+
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Hsuan-Hao Fan</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
 
