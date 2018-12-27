@@ -1,6 +1,6 @@
 # Coursework in Machine Learning and Statistics #
 
-# Machine Learning #
+# 1. Machine Learning #
 
 I selected some reports for data analysis I have done by using different statistical models and algorithms in **machine learning** or **deep learning**. I wrote my own codes in MATLAB/Octave and Python to finish these jobs.
 
@@ -21,7 +21,7 @@ I also use useful libraries in Python, such as **NumPy** (for vectorization calc
 - [Recommender systems for movies](https://github.com/hsuanhao/Machine_Learning/blob/master/Recommender_Systerms_for_Movies.ipynb) (**Collaborative Filtering Algorithm**, **MATLAB**)
 
 
-# Statistics #
+# 2. Statistics #
 
 In what follows, I selected some coursework in statistics by using **R**.
 
