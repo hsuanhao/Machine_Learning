@@ -1,6 +1,8 @@
+# Coursework in Machine Learning and Statistics #
+
 # Machine Learning #
 
-In this repository, I mainly put selected reports for data analysis I have done by using different statistical models and algorithms in **machine learning** or **deep learning**. I wrote my own codes in MATLAB/Octave and Python to finish these jobs.
+I selected some reports for data analysis I have done by using different statistical models and algorithms in **machine learning** or **deep learning**. I wrote my own codes in MATLAB/Octave and Python to finish these jobs.
 
 I also use useful libraries in Python, such as **NumPy** (for vectorization calculation), **Pandas** (for data manipulation and analysis), **SciPy** (for scientific computing), **Matplotlib** (for plotting), and **sckit-learn** (for machine learning). 
 
