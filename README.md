@@ -21,9 +21,9 @@ I also use useful libraries in Python, such as **NumPy** (for vectorization calc
 
 # Statistics #
 
-In what follows, I selected some coursework in statistics.
+In what follows, I selected some coursework in statistics by using **R**.
 
-- Confidence Intervals
+- [Confidence Intervals](https://github.com/hsuanhao/Machine_Learning/blob/master/confidence_intervals.pdf)
 
 
 
