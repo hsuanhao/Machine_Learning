@@ -26,7 +26,7 @@ I also use useful libraries in Python, such as **NumPy** (for vectorization calc
 In what follows, I selected some coursework in statistics by using **R** or **Python**.
 
 - [Confidence Intervals](https://github.com/hsuanhao/Machine_Learning/blob/master/confidence_intervals.pdf) (**R**)
-- Hypothesis Testing for Categorical Data (**R**)
+- [Hypothesis Testing for Categorical Data](https://github.com/hsuanhao/Machine_Learning/blob/master/inf_for_categorical_data.pdf) (**R**)
 
 
 
