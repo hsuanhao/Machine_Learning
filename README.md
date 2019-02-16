@@ -1,6 +1,6 @@
 # Coursework in Machine Learning and Statistics #
 
-Completed coursework certificates related to data science are collected in 
+Completed coursework certificates related to data science are collected in [course_certificates](https://github.com/hsuanhao/Machine_Learning/tree/master/course_certificates).
 
 # 1. Machine Learning #
 
