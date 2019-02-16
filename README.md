@@ -1,5 +1,7 @@
 # Coursework in Machine Learning and Statistics #
 
+Completed coursework certificates related to data science are collected in 
+
 # 1. Machine Learning #
 
 I selected some reports for data analysis I have done by using different statistical models and algorithms in **machine learning** or **deep learning**. I wrote my own codes in MATLAB/Octave and Python to finish these jobs.
