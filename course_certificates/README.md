@@ -16,7 +16,8 @@
 3. Linear Regression and Modeling (final project left)
 
 ## Excel to MySQL: Analytic Techniques for Business (Duke University)
-1. [Managing Big Data with MySQL](https://www.coursera.org/account/accomplishments/verify/QYH8RAWKE7QP) (**Database**, **MySQL**, **Teradata**) 
+1. Business Metrics for Data-Driven Companies (*ongoing*)
+2. [Managing Big Data with MySQL](https://www.coursera.org/account/accomplishments/verify/QYH8RAWKE7QP) (**Database**, **MySQL**, **Teradata**) 
 
 ## Mathematics for Machine Learning (Imperial College London)
 1. [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/account/accomplishments/verify/8MWMBXKLTBM8) (**Python**)
