@@ -15,6 +15,9 @@
 2. Inferential Statistics (final project left)
 3. Linear Regression and Modeling (final project left)
 
+## Statistics with Python (University of Michigan) 
+3. Fitting Statistical Models to Data with Python
+
 ## Excel to MySQL: Analytic Techniques for Business (Duke University)
 1. Business Metrics for Data-Driven Companies (*ongoing*)
 2. [Managing Big Data with MySQL](https://www.coursera.org/account/accomplishments/verify/QYH8RAWKE7QP) (**Database**, **MySQL**, **Teradata**) 
