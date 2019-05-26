@@ -29,7 +29,7 @@ In what follows, I selected some coursework in statistics by using **R** or **Py
 
 - [Confidence Intervals](https://github.com/hsuanhao/Machine_Learning/blob/master/confidence_intervals.pdf) (**R**)
 - [Hypothesis Testing for Categorical Data](https://github.com/hsuanhao/Machine_Learning/blob/master/inf_for_categorical_data.pdf) (**R**)
-- Regression Analysis (**Python**, **Statsmodels**)
+- [Regression Analysis](https://github.com/hsuanhao/Machine_Learning/blob/master/Regression_Analysis.ipynb) (**Python**, **Statsmodels**)
 
 # 3. Statistical Mechanics #
 
