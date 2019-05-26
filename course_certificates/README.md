@@ -16,7 +16,7 @@
 3. Linear Regression and Modeling (final project left)
 
 ## Statistics with Python (University of Michigan) 
-3. Fitting Statistical Models to Data with Python
+3. Fitting Statistical Models to Data with Python (**Python**, **Statsmodels**)
 
 ## Excel to MySQL: Analytic Techniques for Business (Duke University)
 1. Business Metrics for Data-Driven Companies (*ongoing*)
