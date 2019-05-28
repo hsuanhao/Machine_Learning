@@ -16,6 +16,7 @@
 3. Linear Regression and Modeling (final project left)
 
 ## Statistics with Python (University of Michigan) 
+1. Understanding and Visualizing Data with Python (**Python**, **Seaborn**, **Matplotlib**)
 3. Fitting Statistical Models to Data with Python (**Python**, **Statsmodels**)
 
 ## Excel to MySQL: Analytic Techniques for Business (Duke University)
