@@ -17,6 +17,7 @@
 
 ## Statistics with Python (University of Michigan) 
 1. Understanding and Visualizing Data with Python (**Python**, **Seaborn**, **Matplotlib**)
+2. Inferential Statistical Analysis with Python (**Python**, **Seaborn**, **Matplotlib**, **Statsmodels**)
 3. Fitting Statistical Models to Data with Python (**Python**, **Statsmodels**)
 
 ## Excel to MySQL: Analytic Techniques for Business (Duke University)
