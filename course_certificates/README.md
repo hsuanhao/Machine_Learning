@@ -11,9 +11,9 @@
 5. Sequence Models (*ongoing*)
 
 ## Statistics with R (Duke University)
-1. Introduction to Probability and Data (final project left)
-2. Inferential Statistics (final project left)
-3. Linear Regression and Modeling (final project left)
+1. Introduction to Probability and Data 
+2. Inferential Statistics 
+3. Linear Regression and Modeling 
 
 ## Statistics with Python (University of Michigan) 
 1. Understanding and Visualizing Data with Python (**Python**, **Seaborn**, **Matplotlib**)
