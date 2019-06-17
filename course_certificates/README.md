@@ -12,7 +12,7 @@
 
 ## Statistics with R (Duke University)
 1. Introduction to Probability and Data 
-2. Inferential Statistics 
+2. [Inferential Statistics](https://www.coursera.org/account/accomplishments/certificate/FD9B2654DAF3) 
 3. Linear Regression and Modeling 
 
 ## Statistics with Python (University of Michigan) 
