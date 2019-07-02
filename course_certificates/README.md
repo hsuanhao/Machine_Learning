@@ -29,3 +29,6 @@
 
 ## Applied Data Science with Python (University of Michigan)
 1. [Introduction to Data Science in Python](https://www.coursera.org/account/accomplishments/verify/D9MBTQB9XTE8) (**Python**)
+
+## Genomic Data Science (Johns Hopkins University)
+1. Python for Genomic Data Science (**Python**)
