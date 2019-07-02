@@ -31,4 +31,4 @@
 1. [Introduction to Data Science in Python](https://www.coursera.org/account/accomplishments/verify/D9MBTQB9XTE8) (**Python**)
 
 ## Genomic Data Science (Johns Hopkins University)
-1. Python for Genomic Data Science (**Python**)
+1. [Python for Genomic Data Science](https://www.coursera.org/account/accomplishments/certificate/RKQ9H3TGG2K8) (**Python**)
