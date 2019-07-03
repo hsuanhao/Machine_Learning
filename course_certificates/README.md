@@ -22,7 +22,7 @@
 
 ## Excel to MySQL: Analytic Techniques for Business (Duke University)
 1. Business Metrics for Data-Driven Companies 
-2. [Managing Big Data with MySQL](https://www.coursera.org/account/accomplishments/verify/QYH8RAWKE7QP) (**Database**, **MySQL**, **Teradata**) 
+2. [Managing Big Data with MySQL](https://www.coursera.org/account/accomplishments/certificate/QYH8RAWKE7QP) (**Database**, **MySQL**, **Teradata**) 
 
 ## Mathematics for Machine Learning (Imperial College London)
 1. [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/account/accomplishments/certificate/8MWMBXKLTBM8) (**Python**)
