@@ -1,7 +1,7 @@
 # Course Certificates related to **Data Science**
 
 ## Machine Learning
-1. [Machine Learning](https://www.coursera.org/account/accomplishments/verify/NX6W7ZCLVYSF) by Standford University on Coursera (**Matlab**)
+1. [Machine Learning](https://www.coursera.org/account/accomplishments/certificate/NX6W7ZCLVYSF) by Standford University on Coursera (**Matlab**)
 
 ## Deep Learning Specialization (deeplearning.ai)
 1. [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/HQ6JNV3JYP8K) (**Python**)
