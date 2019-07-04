@@ -6,7 +6,7 @@ Completed coursework certificates related to data science are collected in [cour
 
 I selected some reports for data analysis I have done by using different statistical models and algorithms in **machine learning** or **deep learning**. I wrote my own codes from scratch in MATLAB/Octave and Python to finish these jobs.
 
-I also used useful libraries in Python, such as **NumPy** (for vectorization calculation), **Pandas** (for data manipulation and analysis), **SciPy** (for scientific computing), **Matplotlib** (for plotting), and **sckit-learn** (for machine learning). 
+I also used useful libraries in Python, such as **NumPy** (for vectorization calculation), **Pandas** (for data manipulation and analysis), **SciPy** (for scientific computing), **Matplotlib** (for plotting), **Statsmodels** (a library that implements many statistical techniques), and **sckit-learn** (for machine learning). 
 
 ## Supervised Learning ##
 - [Prediction profits for a food truck](https://github.com/hsuanhao/Machine_Learning/blob/master/prediction_profits_food_truck.ipynb) (**linear regression**, **MATLAB**)
