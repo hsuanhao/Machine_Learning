@@ -25,7 +25,8 @@
 2. [Managing Big Data with MySQL](https://www.coursera.org/account/accomplishments/certificate/QYH8RAWKE7QP) (**Database**, **MySQL**, **Teradata**) 
 
 ## Mathematics for Machine Learning (Imperial College London)
-1. [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/account/accomplishments/certificate/8MWMBXKLTBM8) (**Python**)
+1. Mathematics for Machine LEarning: Linear Algebra
+2. [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/account/accomplishments/certificate/8MWMBXKLTBM8) (**Python**)
 
 ## Applied Data Science with Python (University of Michigan)
 1. [Introduction to Data Science in Python](https://www.coursera.org/account/accomplishments/certificate/D9MBTQB9XTE8) (**Python**)
