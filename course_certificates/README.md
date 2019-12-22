@@ -14,6 +14,7 @@
 1. Introduction to Probability and Data 
 2. [Inferential Statistics](https://www.coursera.org/account/accomplishments/certificate/FD9B2654DAF3) 
 3. Linear Regression and Modeling 
+4. Bayesian Statistics
 
 ## Statistics with Python (University of Michigan) 
 1. Understanding and Visualizing Data with Python (**Python**, **Seaborn**, **Matplotlib**)
