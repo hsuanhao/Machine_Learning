@@ -28,6 +28,7 @@
 ## Mathematics for Machine Learning (Imperial College London)
 1. Mathematics for Machine LEarning: Linear Algebra (**Python**)
 2. [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/account/accomplishments/certificate/8MWMBXKLTBM8) (**Python**)
+3. [Mathematics for Machine Learning: PCA](https://www.coursera.org/account/accomplishments/verify/WPARWQQCMQSE) (**Python**)
 
 ## Applied Data Science with Python (University of Michigan)
 1. [Introduction to Data Science in Python](https://www.coursera.org/account/accomplishments/certificate/D9MBTQB9XTE8) (**Python**)
