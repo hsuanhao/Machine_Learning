@@ -11,7 +11,7 @@
 5. Sequence Models 
 
 ## Statistics with R (Duke University)
-1. Introduction to Probability and Data 
+1. [Introduction to Probability and Data](https://www.coursera.org/account/accomplishments/verify/KCHYZ6MZST96) 
 2. [Inferential Statistics](https://www.coursera.org/account/accomplishments/certificate/FD9B2654DAF3) 
 3. Linear Regression and Modeling 
 4. Bayesian Statistics
