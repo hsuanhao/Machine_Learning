@@ -31,7 +31,7 @@
 3. [Mathematics for Machine Learning: PCA](https://www.coursera.org/account/accomplishments/verify/WPARWQQCMQSE) (**Python**)
 
 ## Applied Data Science with Python (University of Michigan)
-1. [Introduction to Data Science in Python](https://www.coursera.org/account/accomplishments/certificate/D9MBTQB9XTE8) (**Python**)
+1. [Introduction to Data Science in Python](https://www.coursera.org/account/accomplishments/verify/D9MBTQB9XTE8) (**Python**)
 
 ## Genomic Data Science (Johns Hopkins University)
 1. [Python for Genomic Data Science](https://www.coursera.org/account/accomplishments/certificate/RKQ9H3TGG2K8) (**Python**)
