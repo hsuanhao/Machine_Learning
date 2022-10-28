@@ -6,7 +6,7 @@
 ## Deep Learning Specialization (deeplearning.ai)
 1. [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/HQ6JNV3JYP8K) (**Python**)
 2. [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/JFPSS8TP9L49) (**Python**, **Tensorflow**)
-3. [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/certificate/Y2L5MTWFHFM4)
+3. [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/verify/Y2L5MTWFHFM4)
 4. Convolutional Neural Networks 
 5. Sequence Models 
 
