@@ -4,7 +4,7 @@
 1. [Machine Learning](https://www.coursera.org/account/accomplishments/certificate/NX6W7ZCLVYSF) by Standford University on Coursera (**Matlab**)
 
 ## Deep Learning Specialization (deeplearning.ai)
-1. [Neural Networks and Deep Learning]([https://www.coursera.org/account/accomplishments/certificate/HQ6JNV3JYP8K](https://www.coursera.org/account/accomplishments/verify/HQ6JNV3JYP8K) (**Python**)
+1. [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/HQ6JNV3JYP8K](https://www.coursera.org/account/accomplishments/verify/HQ6JNV3JYP8K) (**Python**)
 2. [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/certificate/JFPSS8TP9L49) (**Python**, **Tensorflow**)
 3. [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/certificate/Y2L5MTWFHFM4)
 4. Convolutional Neural Networks 
